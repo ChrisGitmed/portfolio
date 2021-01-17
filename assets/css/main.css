@@ -2796,8 +2796,10 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			/*background-color: #21b2a6;*/
+			background-color: #fefae0;
+			color: white;
+			/*color: #c8ece9;*/
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2805,7 +2807,8 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				/*color: #ffffff;*/
+				color: black
 			}
 
 			.wrapper.style1 hr {
@@ -2829,7 +2832,8 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				/*color: #c8ece9;*/
+				color: black;
 			}
 
 			.wrapper.style1 label {
@@ -2959,7 +2963,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			/*background-color: #505393;*/
+			background-color: rgba(29, 36, 42, 0.9);
 			color: #d3d4e4;
 		}
 
@@ -3330,8 +3335,10 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
-		color: #ffffff;
+		/*background: #21b2a6;*/
+		background: #fefae0;
+		/*color: #ffffff;*/
+		color: black;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3793,10 +3800,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/sb-mountain.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/sb-mountain.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/sb-mountain.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/sb-mountain.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3870,7 +3877,8 @@ input, select, textarea {
 	}
 
 		#footer .icons {
-			font-size: 1.25em;
+			/*font-size: 1.25em;*/
+			font-size: 1.25rem;
 		}
 
 			#footer .icons a {

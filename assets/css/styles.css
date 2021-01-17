@@ -7,6 +7,25 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
+.about-section {
+	background-color: #2B353D !important;
+}
+.about-header {
+	margin-bottom: 0px !important;
+}
+.about-article {
+	text-align:start !important;
+}
+
+.white-text {
+	color: white !important;
+}
+
+.navy-background {
+	background-color: #2B353D !important;
+}
+
 #banner .icons {
 			/*font-size: 1.25em;*/
 			font-size: 1.2rem;

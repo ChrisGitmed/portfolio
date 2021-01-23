@@ -18,6 +18,10 @@
 	text-align:start !important;
 }
 
+.resume-link {
+	margin: 2rem 0rem 1rem 0rem !important;
+}
+
 .white-text {
 	color: white !important;
 }
@@ -27,7 +31,6 @@
 }
 
 #banner .icons {
-			/*font-size: 1.25em;*/
 			font-size: 1.2rem;
 		}
 

@@ -4,17 +4,21 @@
   "description": "A portfolio for my work.",
   "main": "index.js",
   "scripts": {
+    "build": "vite build",
     "dev": "vite --port 4200"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
     "lodash": "^4.17.21",
     "react": "18.3.1",
     "react-dom": "^18.3.1",
     "styled-components": "^6.1.9",
-    "styled-normalize": "^8.1.1"
+    "styled-normalize": "^8.1.1",
+    "vite-plugin-pwa": "^0.20.0",
+    "vitest": "^1.5.3"
   },
   "devDependencies": {
     "@types/react": "^18.3.1",

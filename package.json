@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio for my work.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 4200"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.9",
+    "styled-normalize": "^8.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.5",
+    "vite": "5.2.10"
+  }
+}
